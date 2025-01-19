@@ -1,9 +1,11 @@
 // Without Template Literal
 var a =" to ";
-console.log(("welcome" + a + "javascript"));
+console.log(("welcome" + a + "javascript")); // welcome to javascript
 
 console.log("welcome to \nmy world"); // welcome to
                                       // my world                 
+
+console.log("welcome to \"world\""); // welcome to "world")        
 
 // With Template Literal
 var b = "a Web developer";
@@ -17,3 +19,7 @@ console.log(`${x+y}`)
 console.log(`Welcome to 
 my world`) // Welcome to
            // my world       
+
+ console.log(`Welcome to  "world"`)        
+      
+          
