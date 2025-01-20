@@ -39,17 +39,3 @@ var j = 10;
 console.log(-j); //-10
 document.write("<br>");
 document.write(-j); //-10
-
-//Increment ( ++ )
-var k = 10;
-console.log(k++); //10
-document.write("<br>");
-document.write(k++); //11
-
-var j = 10;
-console.log(++j); //11
-document.write("<br>");
-document.write(++j); //12
-
-
-
