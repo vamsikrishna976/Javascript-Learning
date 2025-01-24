@@ -19,10 +19,3 @@ var fruits1= ['apple', 'banana', 'guava', 'pineapple'];
 console.log(fruits1.indexOf("banana"));
 //Slice Method 
 console.log(fruits1.slice(0,6));
-
-
-
-
-
-
-

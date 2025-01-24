@@ -18,3 +18,4 @@ console.log(typeof(num1))
  const num3 = 34
  console.log(num3)
  
+
